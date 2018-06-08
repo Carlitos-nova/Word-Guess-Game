@@ -1,0 +1,38 @@
+body {
+    background-image: url("../images/binary.png");
+    background-size: 1550px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    letter-spacing: 3px;
+    font-size: 100px;
+    margin-right:0px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    margin-top: 5%;
+    left: 0;
+    bottom: 0%
+}
+
+img { 
+    width: 100%;
+    height: auto;
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
